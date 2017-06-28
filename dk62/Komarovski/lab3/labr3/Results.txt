@@ -1,0 +1,4 @@
+Type of algorithm	Time
+
+Quicksort			0.000 sec
+Binary search		0.000 sec		
